@@ -1,5 +1,3 @@
-# house-price-prediction
-This repository contains my February internship project completed at Take It Smart
 # Data Science February Month Project
 This repository contains my February internship project completed at Take It Smart.
 ## About Project
