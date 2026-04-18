@@ -7,8 +7,6 @@ It is a EDA and Linear Regression project for predicting house prices using the 
 - To build a Linear Regression model to predict house prices and evaluate its performance using R² Score, MAE, and MSE.
 ## Dataset used
 - <a
-  href = "https://www.kaggle.com/datasets/harlfoxem/housesalesprediction">Dataset</a>
-- <a
   href = "https://github.com/abhishekhosamani14/house-price-prediction/blob/main/kc_house_data.csv.zip">Dataset</a>
 ## Process
 - Dataset Collection: The King County House Sales dataset was used for this project, which contains information about house features such as price, bedrooms, bathrooms, living area, and other attributes.
